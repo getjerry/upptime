@@ -1,8 +1,8 @@
 [
   {
     "name": "Homepage",
-    "url": "https://getjerry.com",
-    "icon": "https://icons.duckduckgo.com/ip3/getjerry.com.ico",
+    "url": "https://jerry.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/jerry.ai.ico",
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
@@ -21,8 +21,8 @@
   },
   {
     "name": "Insurance System",
-    "url": "https://getjerry.com/health",
-    "icon": "https://icons.duckduckgo.com/ip3/getjerry.com.ico",
+    "url": "https://jerry.ai/health",
+    "icon": "https://icons.duckduckgo.com/ip3/jerry.ai.ico",
     "slug": "insurance-system",
     "status": "up",
     "uptime": "100.00%",
